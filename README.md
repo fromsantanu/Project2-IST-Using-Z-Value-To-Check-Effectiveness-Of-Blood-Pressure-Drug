@@ -59,7 +59,7 @@ The programs are written on jupiter notebook, You may run the program on Google 
 
 ![Program Output](output.png)
 
-##Interpretation
+## Interpretation
 - The z-value of -3.11 indicates how many standard deviations the observed mean (136.23 mmHg) is below the hypothesized mean (140.90 mmHg).
 - Using the standard normal distribution table, a z-value of -3.11 corresponds to a very low p-value 0.00093 (much less than 0.05).
 
