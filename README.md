@@ -53,7 +53,7 @@ The data set is synthetically generated and used for demonstrating the concept o
 
 The programs are written on jupiter notebook, You may run the program on Google colab by clicking on the colab badge below.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fromsantanu/Project1-IST-P-Value-For-Testing-Effectiveness-Of-Blood-Pressure-Drugs/blob/main/Project1-IST-P-Value-For-Testing-Effectiveness-Of-Blood-Pressure-Drugs.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fromsantanu/Project2-IST-Using-Z-Value-To-Check-Effectiveness-Of-Blood-Pressure-Drug/blob/main/Project2-IST-Using-Z-Value-To-Check-Effectiveness-Of-Blood-Pressure-Drug.ipynb)
 
 ## Screenshots and explanations
 
